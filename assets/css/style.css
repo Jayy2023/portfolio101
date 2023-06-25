@@ -44,6 +44,18 @@ a:hover {
   color: #35e888;
   text-decoration: none;
 }
+.image-container{
+  border: solid 2px #35e888;
+}
+.desk {
+  width: 350px;
+  border: 2px solid #35e888;
+ 
+  
+}
+
+
+
 
 h1,
 h2,
@@ -189,6 +201,13 @@ h6 {
 
   #header.header-top h1 {
     font-size: 26px;
+  }
+
+}
+@media (max-width: 767px) {
+  .image-container {
+    width: 80px;
+    height: 80px;
   }
 }
 
