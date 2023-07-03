@@ -59,7 +59,7 @@ a:hover {
 }
 
 .profile-image img {
-  width: 100px; /* Adjust the width as per your preference */
+  width: 30px; /* Adjust the width as per your preference */
   height: auto;
   border-radius: 50%;
   border: 2px solid white;
@@ -67,7 +67,7 @@ a:hover {
 }
 
 .profile-image img:hover {
-  transform: scale(1.2); /* Adjust the scale factor as per your preference */
+  transform: scale(5.2); /* Adjust the scale factor as per your preference */
 }
 
 
