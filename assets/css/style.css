@@ -64,7 +64,7 @@ a:hover {
 }
 
 .profile-image img {
-  width: 30px; /* Adjust the width as per your preference */
+  width: 50px;/* Adjust the width as per your preference */
   height: auto;
   border-radius: 50%;
   border: 2px solid white;
