@@ -161,20 +161,18 @@ h6 {
   width: 40px;
   height: 40px;
 }
-.nav-link{
-  color: black;
-}
+
 
 #header, ul{
   color: #040404;
 }
 #navbar{
-  color: black;
+
 }
 
 #header .social-links a:hover {
   background: #18d26e;
-  color: black;
+  /* color: black; */
 }
 
 @media (max-width: 992px) {
@@ -285,7 +283,7 @@ h6 {
   font-family: "Poppins", sans-serif;
   font-size: 16px;
   font-weight: 400;
-  color: black;
+  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -321,7 +319,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: black;
+  color: #15bb62;
 }
 
 /**
