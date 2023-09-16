@@ -105,6 +105,7 @@ h6 {
 
 #header * {
   transition: ease-in-out 0.3s;
+  
 }
 
 #header h1 {
@@ -127,7 +128,7 @@ h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: black;
+  color: #15bb62;
 }
 
 #header h2 span {
