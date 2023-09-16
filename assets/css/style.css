@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/laptop.jpg") top right no-repeat;
+  background: #040404 url("../img/bg011.png") top left  no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -100,6 +100,7 @@ h6 {
   align-items: center;
   z-index: 997;
   overflow-y: auto;
+  padding-left: 500px;
 }
 
 #header * {
@@ -120,6 +121,7 @@ h6 {
   color: #fff;
   line-height: 1;
   display: inline-block;
+  padding: 20px;
 }
 
 #header h2 {
