@@ -32,6 +32,41 @@ body::before {
   height: 100%;
   z-index: -1;
 }
+/* Skills Section */
+#skills {
+  background-color: #f8f9fa; /* Set background color */
+  padding: 60px 0; /* Add padding for spacing */
+}
+
+.skill-item {
+  margin-bottom: 30px; /* Add margin between skill items */
+}
+
+.skill-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.skill-info i {
+  font-size: 24px; /* Adjust icon size */
+  margin-right: 10px; /* Add margin between icon and skill name */
+}
+
+.skill-info span {
+  font-size: 18px; /* Adjust skill name font size */
+}
+
+.progress {
+  height: 20px; /* Set progress bar height */
+  background-color: #dee2e6; /* Set background color for progress bar container */
+  border-radius: 10px; /* Add border radius for progress bar container */
+}
+
+.progress-bar {
+  background-color: #007bff; /* Set progress bar color */
+  border-radius: 10px; /* Add border radius for progress bar */
+}
 
 
 
@@ -156,12 +191,12 @@ h6 {
   font-size: 24px;
   margin-top: 20px;
   /* color: rgba(255, 255, 255, 0.8); */
-  color:  #18d26e;
+  color:  white;
 }
 
 #header h2 span {
   color: white;
-  border-bottom: 2px solid  #18d26e;
+  border-bottom: 2px solid #18d26e ;
   padding-bottom: 6px;
 }
 
